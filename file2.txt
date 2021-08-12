@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Welcome to file2.txt
-and
+and it's
 read property this file
+=======
+Hello git hub file2.txt
+>>>>>>> 6c816fe55885224be3df7b0a07bc3424559b4023
